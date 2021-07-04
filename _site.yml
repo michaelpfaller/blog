@@ -2,6 +2,7 @@ name: "Blog"
 title: "Showcase"
 description: |
   Showcase
+theme: theme.css
 output_dir: "docs"
 base_url: https://michaelpfaller.github.io/blog/
 collections:
