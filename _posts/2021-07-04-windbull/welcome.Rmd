@@ -21,5 +21,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+```{r}
+knitr::include_app("https://share.streamlit.io/michaelpfaller/sttest/main/bmi.py", height = "600px")
+```
 
 

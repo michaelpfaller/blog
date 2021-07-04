@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2021-07-04-test/",
-    "title": "Neu",
+    "title": "Test",
     "description": "A short description of the post.",
     "author": [
       {
@@ -13,9 +13,9 @@
     "categories": [
       "R"
     ],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nBitte etwas Geduld…\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-07-04T02:03:51+02:00",
+    "last_modified": "2021-07-04T14:11:42+02:00",
     "input_file": {}
   },
   {
@@ -32,9 +32,9 @@
     "categories": [
       "Python"
     ],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-07-04T02:13:42+02:00",
+    "last_modified": "2021-07-04T14:50:38+02:00",
     "input_file": {}
   }
 ]

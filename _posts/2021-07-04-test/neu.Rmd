@@ -17,8 +17,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Bitte etwas Geduld...
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
-
+```{r}
+knitr::include_app("https://michaelpfaller.shinyapps.io/ShinyTest/", height = "600px")
+```

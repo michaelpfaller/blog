@@ -12,4 +12,3 @@ listing:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-here comes R stuff
