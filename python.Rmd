@@ -1,0 +1,11 @@
+---
+title: "Python"
+description: |
+  python stuff
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+here comes some python stuff
