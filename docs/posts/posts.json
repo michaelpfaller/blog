@@ -1,0 +1,40 @@
+[
+  {
+    "path": "posts/2021-07-04-test/",
+    "title": "Neu",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Michael Pfaller",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-04",
+    "categories": [
+      "R"
+    ],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-04T02:03:51+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-04-windbull/",
+    "title": "Windbull",
+    "description": "Welcome to our new blog, Showcase. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Michael Pfaller",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-04",
+    "categories": [
+      "Python"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-04T02:13:42+02:00",
+    "input_file": {}
+  }
+]
