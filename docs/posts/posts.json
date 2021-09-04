@@ -36,5 +36,22 @@
     "preview": {},
     "last_modified": "2021-07-04T14:50:38+02:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-04-CovidLKK/",
+    "title": "Aktive Corona Fälle im Landkreis Kelheim",
+    "description": "Aus Eigeninteresse erstellt, für andere zugänglich gemacht.\nEinfache Visualisierung der vom Landkreis berichteten Zahlen bzw. ihre Einordnung relativ zur Größe der Gemeinde und der letzten Monate.",
+    "author": [
+      {
+        "name": "Michael Pfaller",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-05T00:05:44+02:00",
+    "input_file": {}
   }
 ]

@@ -27,5 +27,14 @@ reading what we have to say!</description>
       <guid>https://michaelpfaller.github.io/blog/posts/2021-07-04-windbull</guid>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Aktive Corona Fälle im Landkreis Kelheim</title>
+      <dc:creator>Michael Pfaller</dc:creator>
+      <link>https://michaelpfaller.github.io/blog/posts/2021-09-04-CovidLKK</link>
+      <description>Aus Eigeninteresse erstellt, für andere zugänglich gemacht.
+Einfache Visualisierung der vom Landkreis berichteten Zahlen bzw. ihre Einordnung relativ zur Größe der Gemeinde und der letzten Monate.</description>
+      <guid>https://michaelpfaller.github.io/blog/posts/2021-09-04-CovidLKK</guid>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
