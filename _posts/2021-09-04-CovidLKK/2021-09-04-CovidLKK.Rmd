@@ -1,0 +1,19 @@
+---
+title: "Aktive Corona Fälle im Landkreis Kelheim"
+description: |
+  Aus Eigeninteresse erstellt, für andere zugänglich gemacht.
+  Einfache Visualisierung der vom Landkreis berichteten Zahlen bzw. ihre Einordnung relativ zur Größe der Gemeinde und der letzten Monate.
+author:
+  - name: Michael Pfaller
+date: 04-09-2021
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r}
+knitr::include_app("https://michaelpfaller.shinyapps.io/CovidLKK/", height = "600px")
+```

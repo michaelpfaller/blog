@@ -2,26 +2,26 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Über diesen Blog",
+      "description": "Ein paar kleine Ausstellungsstücke",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-04T14:54:18+02:00"
+      "last_modified": "2021-09-04T23:33:48+02:00"
     },
     {
       "path": "index.html",
       "title": "Showcase",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-04T14:54:20+02:00"
+      "last_modified": "2021-09-04T23:33:51+02:00"
     },
     {
       "path": "python.html",
       "title": "Python",
       "description": "python stuff",
       "author": [],
-      "contents": "\r\nhere comes some python stuff\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-04T14:54:21+02:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-04T23:33:55+02:00"
     },
     {
       "path": "r.html",
@@ -29,7 +29,7 @@
       "description": "R stuff\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-04T14:54:23+02:00"
+      "last_modified": "2021-09-04T23:33:57+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
